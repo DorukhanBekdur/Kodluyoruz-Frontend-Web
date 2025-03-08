@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/11701000-933e-4a3f-a46b-f25e675887d3" width="700" height="auto">
 </p>
 
-## 📌 Proje Hakkında
+## 📌 Patika Hakkında
 Kodluyoruz'un **Frontend Web Geliştirme Patikası** kapsamında öğrendiğim konular, yaptığım projeler ve çözümlerimi içeren bu repo, frontend çalışmalarımı içermektedir. Bu repo sayesinde hem kendimi geliştirmeyi hem de öğrendiklerimi paylaşmayı amaçlıyorum. 🎯
 
 ## 📚 İçindekiler
