@@ -15,11 +15,28 @@ Kodluyoruz'un **Frontend Web Geliştirme Patikası** kapsamında öğrendiğim k
 - [📸 Ekran Görüntüleri](#-ekran-görüntüleri)
 
 ## 📖 Öğrenilen Konular
+✅ **GIT**
+- GIT Nedir?
+- GitHub'a Projemizin Eklenmesi ve Diğer Repo Hosting Web Platformları
+- Markdown Nedir?
+
 ✅ **HTML & CSS**
 - HTML yapısı ve temel etiketler
 - Formlar, tablolar, listeler
 - CSS selektörler, flexbox, grid system
 - Responsive design, media queries
+
+✅ **Bootstrap**
+- Bootstrap Kullanarak Web Sitesi Nasıl Yapılır
+- Bootstrap ile Medium Klon Çalışması
+- 12'lik Izgara(Grid) Sistemini Anlamak
+- Bootstrap - Genel Tutucu(Container), Satır Blokları(Row) ve Kolon(Col) Yapısı
+
+✅ **Veri Yapıları ve Algoritmalar**
+- Veri Yapıları
+- Algoritma Analizi
+- Sorting (Sıralama) Algoritmaları
+- Searching (Arama) Algoritmaları
 
 ✅ **JavaScript**
 - Temel değişkenler, veri tipleri, operatörler
@@ -27,15 +44,10 @@ Kodluyoruz'un **Frontend Web Geliştirme Patikası** kapsamında öğrendiğim k
 - ES6+ özellikleri (let/const, arrow function, destructuring)
 - Asenkron programlama (fetch API, async/await)
 
-✅ **React.js**
-- Component yapısı, props ve state kullanımı
-- React Router ile sayfa yönlendirme
-- API ile veri çekme ve gösterme
-
 ## ⚙️ Kurulum & Kullanım
 1. Bu repoyu klonlayın:
    ```sh
-   git clone https://github.com/kullanici-adi/kodluyoruz-frontend-web.git
+   git clone https://github.com/DorukhanBekdur/kodluyoruz-frontend-web.git
    ```
 2. Proje dizinine gidin:
    ```sh
